@@ -5,7 +5,7 @@ function App() {
   const ui = (
     <SafeAreaView style={styles.main}>
       <View style={styles.sub}>
-        <Text>My First Priject</Text>
+        <Text>My First saritha</Text>
        
       </View>
     </SafeAreaView>
